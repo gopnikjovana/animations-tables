@@ -1,4 +1,5 @@
 return {
+    ClassicBattlegrounds = {
         loop1 = { 
             Vector3.new(916.665, 78.000, 1309.744), 
             Vector3.new(894.981, 79.000, 1311.221), 
